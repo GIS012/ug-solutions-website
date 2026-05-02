@@ -385,7 +385,11 @@ nav .logo {
 }
 
 .hero-video.active {
-    opacity: 0.95;
+    opacity: 0.85;
+}
+
+.form-submit-btn i {
+    margin-left: 8px;
 }
 
 .hero-overlay {
